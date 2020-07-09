@@ -11,7 +11,7 @@ If you're not familiar with Python, we recommend these video series:
 - [More Python for beginners](https://aka.ms/morepython)
 - [Even more Python for beginners](https://aka.ms/evenmorepython)
 
-If you're not familiar wiht Azure, we recommend checking out this Microsoft Learn modules:
+If you're not familiar with Azure, we recommend checking out these Microsoft Learn modules:
 - [Create an Azure Account](https://docs.microsoft.com/en-us/learn/modules/create-an-azure-account/)
 - [Azure Fundamentals](https://docs.microsoft.com/learn/paths/azure-fundamentals/)
 
@@ -83,7 +83,7 @@ Here you will find a table for each video, the corresponding resources, and the 
 
 ## After the Video Series
 
-As the goal of this course is to help get you understand the basics of data science and machine learning, while being able to practically begin to explore those concepts in code. The next step after completing the videos is to start to explore other types of data, algorithms, and approches. One way to do that is to find additional tutorials to guide you through your discovery, a few of our favorites are:
+As the goal of this course is to help get you understand the basics of data science and machine learning, while being able to practically begin to explore those concepts in code. The next step after completing the videos is to start to explore other types of data, algorithms, and approaches. One way to do that is to find additional tutorials to guide you through your discovery, a few of our favorites are:
 
 - [Predict flight delays by creating a machine learning model in Python](https://docs.microsoft.com/learn/modules/predict-flight-delays-with-python?WT.mc_id=python-c9-niner)
 - [Build AI solutions with Azure Machine Learning service](https://docs.microsoft.com/en-us/learn/paths/build-ai-solutions-with-azure-ml-service/)
