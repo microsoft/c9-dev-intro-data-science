@@ -2,7 +2,7 @@
 
 ## Overview
 
-This series on Channel 9 and YouTube are designed to help you, a developer, begin your journey through understanding data science and machine learning concepts, while providing you with a practical guide to your first data steps. Whether you want to learn how to actually apply data science and machine learning to the technical solutions you're building, or just want to be able to have more effective conversations with the data scientists or machine learning experts on your team, this series will give you that initial insight and hopefully spark your interest to learn more.
+This series on [Channel 9](https://channel9.msdn.com/Series/Dev-Intro-to-Data-Science) and [YouTube](https://www.youtube.com/playlist?list=PLlrxD0HtieHjDop2DtiCmwTTcrlwKAVHE) are designed to help you, a developer, begin your journey through understanding data science and machine learning concepts, while providing you with a practical guide to your first data steps. Whether you want to learn how to actually apply data science and machine learning to the technical solutions you're building, or just want to be able to have more effective conversations with the data scientists or machine learning experts on your team, this series will give you that initial insight and hopefully spark your interest to learn more.
 
 We do assume you are familiar with software development, however the majority of the code shown in this series is relatively straight-forward Python. So even if you're a novice developer, you will likely learn something for your level. We also assume that you have some familiarity with Azure. 
 
@@ -40,6 +40,15 @@ Remember, Azure offers free trials:
 ## Next Steps
 
 If you want to follow along with the course without writing out all of the code (or try to find an error in your code), we have created this repository that contains all of the content that we showed in the course. 
+
+### Getting Started with Code
+
+We have created a folder in this repo with all of the code and instructions on how to get started with this completed code both locally in Visual Studio Code and in the clour on Azure Machine Learning Studio. You can find this [code in the project README](https://github.com/microsoft/c9-dev-intro-data-science/blob/main/regression-with-bikes/README.md).
+
+
+### Course Outline
+
+Here you will find a table for each video, the corresponding resources, and the corresponding slides. Note that some videos only had a title slide, so we did not include the links to the slides for those videos. 
 
 | Video # | Video Title | References | Slides | 
 |---------|-------------|------------|--------|
