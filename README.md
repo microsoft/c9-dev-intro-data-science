@@ -1,64 +1,53 @@
----
-page_type: sample
-languages:
-- csharp
-products:
-- dotnet
-description: "Add 150 character max description"
-urlFragment: "update-this-to-unique-url-stub"
----
+# Developers Intro to Data Science
 
-# Official Microsoft Sample
+## Overview
 
-<!-- 
-Guidelines on README format: https://review.docs.microsoft.com/help/onboard/admin/samples/concepts/readme-template?branch=master
+This series on Channel 9 and YouTube are designed to help you, a developer, begin your journey through understanding data science and machine learning concepts, while providing you with a practical guide to your first data steps. Whether you want to learn how to actually apply data science and machine learning to the technical solutions you're building, or just want to be able to have more effective conversations with the data scientists or machine learning experts on your team, this series will give you that initial insight and hopefully spark your interest to learn more.
 
-Guidance on onboarding samples to docs.microsoft.com/samples: https://review.docs.microsoft.com/help/onboard/admin/samples/process/onboarding?branch=master
+We do assume you are familiar with software development, however the majority of the code shown in this series is relatively straight-forward Python. So even if you're a novice developer, you will likely learn something for your level. We also assume that you have some familiarity with Azure. 
 
-Taxonomies for products and languages: https://review.docs.microsoft.com/new-hope/information-architecture/metadata/taxonomies?branch=master
--->
+If you're not familiar with Python, we recommend these video series:
+- [Python for beginners](https://aka.ms/pythonbeginnerseries)
+- [More Python for beginners](https://aka.ms/morepython)
+- [Even more Python for beginners](https://aka.ms/evenmorepython)
 
-Give a short description for your sample here. What does it do and why is it important?
+If you're not familiar wiht Azure, we recommend checking out this Microsoft Learn modules:
+- [Create an Azure Account](https://docs.microsoft.com/en-us/learn/modules/create-an-azure-account/)
+- [Azure Fundamentals](https://docs.microsoft.com/learn/paths/azure-fundamentals/)
 
-## Contents
+Remember, Azure offers free trials:
+- [Azure free trial for professionals](https://azure.microsoft.com/en-us/free/)
+- [Azure free trial for students (no credit card required](https://azure.microsoft.com/en-us/free/students/)
 
-Outline the file contents of the repository. It helps users navigate the codebase, build configuration and any related assets.
+### What you'll learn
 
-| File/folder       | Description                                |
-|-------------------|--------------------------------------------|
-| `src`             | Sample source code.                        |
-| `.gitignore`      | Define what to ignore at commit time.      |
-| `CHANGELOG.md`    | List of changes to the sample.             |
-| `CONTRIBUTING.md` | Guidelines for contributing to the sample. |
-| `README.md`       | This README file.                          |
-| `LICENSE`         | The license for the sample.                |
+- The basic data science lifecycle
+- An overview of common machine learning algorithms
+- How to setup your local and cloud developer environment to:
+  - Write Python in Jupyter notebooks in Visual Studio Code
+  - Connect an Azure Machine Learning resource to your local Visual Studio Code environment
+  - Write Python in Jupyter notebooks in Azure Machine Learning Studio
+- How to import, clean, and manipulate data with Python
+- How to split data and test machine learning algorithms in code
 
 ## Prerequisites
 
-Outline the required components and tools that a user might need to have on their machine in order to run the sample. This can be anything from frameworks, SDKs, OS versions or IDE releases.
+- Some software development experience
+- Light experience with Python
+- [An understanding of Git](https://git-scm.com/book/en/v1/Getting-Started)
+- [Light experience with Azure](https://docs.microsoft.com/en-us/learn/modules/create-an-azure-account/)
 
-## Setup
+## After the Video Series
 
-Explain how to prepare the sample once the user clones or downloads the repository. The section should outline every step necessary to install dependencies and set up any settings (for example, API keys and output folders).
+As the goal of this course is to help get you understand the basics of data science and machine learning, while being able to practically begin to explore those concepts in code. The next step after completing the videos is to start to explore other types of data, algorithms, and approches. One way to do that is to find additional tutorials to guide you through your discovery, a few of our favorites are:
 
-## Running the sample
-
-Outline step-by-step instructions to execute the sample and see its output. Include steps for executing the sample from the IDE, starting specific services in the Azure portal or anything related to the overall launch of the code.
-
-## Key concepts
-
-Provide users with more context on the tools and services used in the sample. Explain some of the code that is being used and how services interact with each other.
+- [Predict flight delays by creating a machine learning model in Python](https://docs.microsoft.com/learn/modules/predict-flight-delays-with-python?WT.mc_id=python-c9-niner)
+- [Build AI solutions with Azure Machine Learning service](https://docs.microsoft.com/en-us/learn/paths/build-ai-solutions-with-azure-ml-service/)
 
 ## Contributing
 
-This project welcomes contributions and suggestions.  Most contributions require you to agree to a
-Contributor License Agreement (CLA) declaring that you have the right to, and actually do, grant us
-the rights to use your contribution. For details, visit https://cla.opensource.microsoft.com.
+This project welcomes contributions and suggestions.  Most contributions require you to agree to a Contributor License Agreement (CLA) declaring that you have the right to, and actually do, grant us the rights to use your contribution. For details, visit https://cla.opensource.microsoft.com.
 
-When you submit a pull request, a CLA bot will automatically determine whether you need to provide
-a CLA and decorate the PR appropriately (e.g., status check, comment). Simply follow the instructions
-provided by the bot. You will only need to do this once across all repos using our CLA.
+When you submit a pull request, a CLA bot will automatically determine whether you need to provide a CLA and decorate the PR appropriately (e.g., status check, comment). Simply follow the instructions provided by the bot. You will only need to do this once across all repos using our CLA.
 
-This project has adopted the [Microsoft Open Source Code of Conduct](https://opensource.microsoft.com/codeofconduct/).
-For more information see the [Code of Conduct FAQ](https://opensource.microsoft.com/codeofconduct/faq/) or
-contact [opencode@microsoft.com](mailto:opencode@microsoft.com) with any additional questions or comments.
+This project has adopted the [Microsoft Open Source Code of Conduct](https://opensource.microsoft.com/codeofconduct/). For more information see the [Code of Conduct FAQ](https://opensource.microsoft.com/codeofconduct/faq/) or contact [opencode@microsoft.com](mailto:opencode@microsoft.com) with any additional questions or comments.
