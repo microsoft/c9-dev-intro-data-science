@@ -46,12 +46,14 @@ We have created a folder in this repo with all of the code and instructions on h
 
 ### Useful Resources
 
-You can find the slides for this course 
-
 These are all of the links from the `Useful Resources` slide in the first video of this course, as well as the links that are highlighted throughout other videos.
 
-- [The Developer's Intro to Data Science GitHub Repo](www.aka.ms/DevIntroDS_GitHub)
-- [The Developer's Intro to Data Science Microsoft Learn Collection](http://www.aka.ms/DevIntroDS_Learn)
+- [(this) GitHub Repo](www.aka.ms/DevIntroDS_GitHub)
+- [ Microsoft Learn Collection](http://www.aka.ms/DevIntroDS_Learn)
+- [Slides](https://slidedecks.blob.core.windows.net/ch9slides/DevIntroToDS.pdf)
+- [Videos on YouTube](https://www.youtube.com/playlist?list=PLlrxD0HtieHjDop2DtiCmwTTcrlwKAVHE)
+- [Videos on Channel 9](https://channel9.msdn.com/Series/Dev-Intro-to-Data-Science)
+
 - [The Data Science Lifecycle](www.aka.ms/DataScienceLifecycle)
 - [Machine Learning Algorithm Cheat Sheet](www.aka.ms/AlgorithmCheatSheet)
 - [Automated Machine Learning Overview](www.aka.ms/AutomatedML)
