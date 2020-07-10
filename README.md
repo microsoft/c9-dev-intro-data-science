@@ -1,4 +1,4 @@
-# Developers Intro to Data Science
+# Developer's Intro to Data Science
 
 ## Overview
 
@@ -32,10 +32,9 @@ Remember, Azure offers free trials:
 
 ## Prerequisites
 
-- Some software development experience
-- Light experience with Python
-- [An understanding of Git](https://git-scm.com/book/en/v1/Getting-Started)
-- [Light experience with Azure](https://docs.microsoft.com/en-us/learn/modules/create-an-azure-account/)
+- **Some software development experience**: Built an app? Great! Completed a coding course or bootcamp? Perfect!
+- **Light experience with a programming language**: Python, or really any other programming language
+- **Light experience with Azure**: We recommend that you have some basic experience with Azure, but if you're brand new to it you will still be able to follow along!
 
 ## Next Steps
 
@@ -45,48 +44,38 @@ If you want to follow along with the course without writing out all of the code 
 
 We have created a folder in this repo with all of the code and instructions on how to get started with this completed code both locally in Visual Studio Code and in the clour on Azure Machine Learning Studio. You can find this [code in the project README](https://github.com/microsoft/c9-dev-intro-data-science/blob/main/regression-with-bikes/README.md).
 
+### Useful Resources
 
-### Course Outline
+You can find the slides for this course 
 
-Here you will find a table for each video, the corresponding resources, and the corresponding slides. Note that some videos only had a title slide, so we did not include the links to the slides for those videos. 
+These are all of the links from the `Useful Resources` slide in the first video of this course, as well as the links that are highlighted throughout other videos.
 
-| Video # | Video Title | References | Slides | 
-|---------|-------------|------------|--------|
-| 1 | Introduction to the Developer's Intro to Data Science Video Series | [Microsoft Learn Collection](www.aka.ms/DevIntroDS_Learn) |  |
-| 2 | What is the Data Science Lifecycle? | [The Data Science Lifecycle](www.aka.ms/DataScienceLifecycle) |  |
-| 3 | How do you define your business goal and scope your data science solution? | [The Data Science Lifecyle](www.aka.ms/DataScienceLifecycle) |  |
-| 4 | What is Machine Learning?	What is Machine Learning? | [Machine Learning Algorithm Cheat Sheet](www.aka.ms/AlgorithmCheatSheet) |  |
-| 5 | Which Machine Learning Algorithm Should You Use? | [Machine Learning Algorithm Cheat Sheet](www.aka.ms/AlgorithmCheatSheet) |  |
-| 6 | What is AutoML? | [Automated Machine Learning Overview](www.aka.ms/AutomatedML) |  |
-| 7 | How do you create a machine learning resource in Azure? | [Automated Machine Learning Overview](www.aka.ms/AutomatedML) [Getting Started with Azure Machine Learning](www.aka.ms/AzureMLGettingStarted) |  |
-| 8 | How do you setup your local environment for data exploration? | [Getting Started with Python in Visual Studio Code](www.aka.ms/PythonInVSCode) |  |
-| 9 | How do Jupyter notebooks work in Visual Studio Code? | [Setting up Jupyter notebooks in Visual Studio Code](www.aka.ms/DataScienceInVSCode) |  |
-| 10 | How do you connect your Azure Machine Learning resources to your local Visual Studio Code environment? | [Getting Started with the Azure Machine Learning SDK](www.aka.ms/IntroToAzureMLSDK) |  |
-| 11 | How do you prepare your data for a time series forecast? | [Creating a Datastore with Azure Machine Learning](www.aka.ms/AzureMLDatastore) |  |
-| 12 | Why do you split data into testing and training data in data science? | [Getting Started with the Code in this Course](https://github.com/microsoft/c9-dev-intro-data-science/blob/main/regression-with-bikes/README.md) |  |
-| 13 | What is an AutoML Config file? | [A usable sample of the Auto Machine Learning Config Class](www.aka.ms/AutoMLConfig-Class) |  |
-| 14 | What should your parameters be when creating an AutoML Config file? | [A usable sample of the Auto Machine Learning Config Class](www.aka.ms/AutoMLConfig-Class) |  |
-| 15 | How do you create an AutoML Config file and run your data science experiments on the cloud? | [An Auto Machine Learning Tutorial](www.aka.ms/IntroToAutoML) |  |
-| 16 | What is Azure Machine Learning? | [Azure Machine Learning Serivce Product Page](www.aka.ms/AMLservice) |  |
-| 17 | How can you collaborate on Jupyter Notebooks using Azure Machine Learning studio? | [Azure Machine Learning Studio](ml.azure.com) |  |
-| 18 | How do you choose the best model and perform feature engineering? | [Auto Machine Learning Tutorial with Featurization](www.aka.ms/AutoMLfeaturization) |  |
-| 19 | How do you use Azure ML for best model selection and featurization? | [Auto Machine Learning Tutorial with Featurization](www.aka.ms/AutoMLfeaturization) |  |
-| 20 | How do you evaluate and retrieve a time series forecast from Azure Machine Learning? | [Getting Started with the Code in this Course](https://github.com/microsoft/c9-dev-intro-data-science/blob/main/regression-with-bikes/README.md) |  |
-| 21 | How do you score your machine learning model on accuracy? | [Evaluating a Machine Learning Model with Azure](www.aka.ms/EvaluateModel) |  |
-| 22 | How do you deploy a machine learning model as a web service within Azure? | [Deploying a Machine Learning Model with Azure](www.aka.ms/DeployModel) |  |
-| 23 | What have you learned from deploying a machine learning model as a web service? | [Deploying a Machine Learning Model with Azure](www.aka.ms/DeployModel) |  |
-| 24 | What is the importance of model deployment in machine learning? | [Azure Machine Learning Serivce Product Page](www.aka.ms/AMLservice) |  |
-| 25 | How do you select the right machine learning algorithm? | [Selecting a Machine Learning Algorithm](www.aka.ms/SelectAlgos) |  |
-| 26 | How does ethics play a role in data science? | [Model interpretability in Azure Machine Learning](www.aka.ms/ModelInterpretability) |  |
-| 27 | What is model interpretability and how can you incorporate it into your data science solutions? | [Model interpretability in Azure Machine Learning](www.aka.ms/ModelInterpretability) |  |
-| 28 | Concluding the Developer's Intro to Data Science Video Series | [Microsoft Learn Collection](www.aka.ms/DevIntroDS_Learn) |  |
+- [The Developer's Intro to Data Science GitHub Repo](www.aka.ms/DevIntroDS_GitHub)
+- [The Developer's Intro to Data Science Microsoft Learn Collection](http://www.aka.ms/DevIntroDS_Learn)
+- [The Data Science Lifecycle](www.aka.ms/DataScienceLifecycle)
+- [Machine Learning Algorithm Cheat Sheet](www.aka.ms/AlgorithmCheatSheet)
+- [Automated Machine Learning Overview](www.aka.ms/AutomatedML)
+- [Azure Machine Learning Serivce Product Page](www.aka.ms/AMLservice)
+- [Auto Machine Learning Tutorial with Featurization](www.aka.ms/AutoMLfeaturization)
+- [Selecting a Machine Learning Algorithm](www.aka.ms/SelectAlgos)
+- [Model interpretability in Azure Machine Learning](www.aka.ms/ModelInterpretability)
+- [Getting Started with Azure Machine Learning](www.aka.ms/AzureMLGettingStarted)
+- [Getting Started with Python in Visual Studio Code](www.aka.ms/PythonInVSCode)
+- [Setting up Jupyter notebooks in Visual Studio Code](www.aka.ms/DataScienceInVSCode)
+- [Getting Started with the Azure Machine Learning SDK](www.aka.ms/IntroToAzureMLSDK)
+- [Creating a Datastore with Azure Machine Learning](www.aka.ms/AzureMLDatastore)
+- [A usable sample of the Auto Machine Learning Config Class](www.aka.ms/AutoMLConfig-Class)
+- [A usable sample of the Auto Machine Learning Config Class](www.aka.ms/AutoMLConfig-Class)
+- [An Auto Machine Learning Tutorial](www.aka.ms/IntroToAutoML)
+- [Evaluating a Machine Learning Model with Azure](www.aka.ms/EvaluateModel)
+- [Deploying a Machine Learning Model with Azure](www.aka.ms/DeployModel)
+
 
 ## After the Video Series
 
-As the goal of this course is to help get you understand the basics of data science and machine learning, while being able to practically begin to explore those concepts in code. The next step after completing the videos is to start to explore other types of data, algorithms, and approches. One way to do that is to find additional tutorials to guide you through your discovery, a few of our favorites are:
+As the goal of this course is to help get you understand the basics of data science and machine learning, while being able to practically begin to explore those concepts in code. The next step after completing the videos is to start to explore other types of data, algorithms, and approches. One way to do that is to find additional tutorials to guide you through your discovery. We created a Microsoft Learn collection containing some of our favorite learning paths for furthering your exploration. 
 
-- [Predict flight delays by creating a machine learning model in Python](https://docs.microsoft.com/learn/modules/predict-flight-delays-with-python?WT.mc_id=python-c9-niner)
-- [Build AI solutions with Azure Machine Learning service](https://docs.microsoft.com/en-us/learn/paths/build-ai-solutions-with-azure-ml-service/)
+The [Developer's Intro to Data Science Learn collection](www.aka.ms/DevIntroDS_Learn) contains content around machine learning and data science specifically with Azure, as well as the UC Berkeley Data8 course. We also collated some AI learning paths that we find particularly interesting as further data exploration.
 
 ## Contributing
 
