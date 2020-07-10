@@ -53,4 +53,4 @@ When it's time to migrate over to Azure Machine Learning Studio, you will need t
 - The [scripts from the forecast](forecast/) folder.
 - The [dataset bike-no-horizon.csv](bike-no-horizon.csv).
 
-If you want the completed code for this course to run in Azure Machine Learning Studio you can find it in the [Bike Share in Azure Machine Learning notebook](bike-share-azureml.ipynb) in this repo.
+If you want the completed code for this course to run in Azure Machine Learning Studio you can find it in the [Bike Share in Azure Machine Learning notebook](bike-share-aml.ipynb) in this repo.
