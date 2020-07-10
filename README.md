@@ -11,7 +11,7 @@ If you're not familiar with Python, we recommend these video series:
 - [More Python for beginners](https://aka.ms/morepython)
 - [Even more Python for beginners](https://aka.ms/evenmorepython)
 
-If you're not familiar wiht Azure, we recommend checking out this Microsoft Learn modules:
+If you're not familiar with Azure, we recommend checking out these Microsoft Learn modules:
 - [Create an Azure Account](https://docs.microsoft.com/en-us/learn/modules/create-an-azure-account/)
 - [Azure Fundamentals](https://docs.microsoft.com/learn/paths/azure-fundamentals/)
 
