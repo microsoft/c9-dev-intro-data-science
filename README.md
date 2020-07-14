@@ -48,36 +48,36 @@ We have created a folder in this repo with all of the code and instructions on h
 
 These are all of the links from the `Useful Resources` slide in the first video of this course, as well as the links that are highlighted throughout other videos.
 
-- [(this) GitHub Repo](www.aka.ms/DevIntroDS_GitHub)
+- [(this) GitHub Repo](http://www.aka.ms/DevIntroDS_GitHub)
 - [ Microsoft Learn Collection](http://www.aka.ms/DevIntroDS_Learn)
 - [Slides](https://slidedecks.blob.core.windows.net/ch9slides/DevIntroToDS.pdf)
 - [Videos on YouTube](https://www.youtube.com/playlist?list=PLlrxD0HtieHjDop2DtiCmwTTcrlwKAVHE)
 - [Videos on Channel 9](https://channel9.msdn.com/Series/Dev-Intro-to-Data-Science)
 
-- [The Data Science Lifecycle](www.aka.ms/DataScienceLifecycle)
-- [Machine Learning Algorithm Cheat Sheet](www.aka.ms/AlgorithmCheatSheet)
-- [Automated Machine Learning Overview](www.aka.ms/AutomatedML)
-- [Azure Machine Learning Serivce Product Page](www.aka.ms/AMLservice)
-- [Auto Machine Learning Tutorial with Featurization](www.aka.ms/AutoMLfeaturization)
-- [Selecting a Machine Learning Algorithm](www.aka.ms/SelectAlgos)
-- [Model interpretability in Azure Machine Learning](www.aka.ms/ModelInterpretability)
-- [Getting Started with Azure Machine Learning](www.aka.ms/AzureMLGettingStarted)
-- [Getting Started with Python in Visual Studio Code](www.aka.ms/PythonInVSCode)
-- [Setting up Jupyter notebooks in Visual Studio Code](www.aka.ms/DataScienceInVSCode)
-- [Getting Started with the Azure Machine Learning SDK](www.aka.ms/IntroToAzureMLSDK)
-- [Creating a Datastore with Azure Machine Learning](www.aka.ms/AzureMLDatastore)
-- [A usable sample of the Auto Machine Learning Config Class](www.aka.ms/AutoMLConfig-Class)
-- [A usable sample of the Auto Machine Learning Config Class](www.aka.ms/AutoMLConfig-Class)
-- [An Auto Machine Learning Tutorial](www.aka.ms/IntroToAutoML)
-- [Evaluating a Machine Learning Model with Azure](www.aka.ms/EvaluateModel)
-- [Deploying a Machine Learning Model with Azure](www.aka.ms/DeployModel)
+- [The Data Science Lifecycle](http://www.aka.ms/DataScienceLifecycle)
+- [Machine Learning Algorithm Cheat Sheet](http://www.aka.ms/AlgorithmCheatSheet)
+- [Automated Machine Learning Overview](http://www.aka.ms/AutomatedML)
+- [Azure Machine Learning Serivce Product Page](http://www.aka.ms/AMLservice)
+- [Auto Machine Learning Tutorial with Featurization](http://www.aka.ms/AutoMLfeaturization)
+- [Selecting a Machine Learning Algorithm](http://www.aka.ms/SelectAlgos)
+- [Model interpretability in Azure Machine Learning](http://www.aka.ms/ModelInterpretability)
+- [Getting Started with Azure Machine Learning](http://www.aka.ms/AzureMLGettingStarted)
+- [Getting Started with Python in Visual Studio Code](http://www.aka.ms/PythonInVSCode)
+- [Setting up Jupyter notebooks in Visual Studio Code](http://www.aka.ms/DataScienceInVSCode)
+- [Getting Started with the Azure Machine Learning SDK](http://www.aka.ms/IntroToAzureMLSDK)
+- [Creating a Datastore with Azure Machine Learning](http://www.aka.ms/AzureMLDatastore)
+- [A usable sample of the Auto Machine Learning Config Class](http://www.aka.ms/AutoMLConfig-Class)
+- [A usable sample of the Auto Machine Learning Config Class](http://www.aka.ms/AutoMLConfig-Class)
+- [An Auto Machine Learning Tutorial](http://www.aka.ms/IntroToAutoML)
+- [Evaluating a Machine Learning Model with Azure](http://www.aka.ms/EvaluateModel)
+- [Deploying a Machine Learning Model with Azure](http://www.aka.ms/DeployModel)
 
 
 ## After the Video Series
 
 As the goal of this course is to help get you understand the basics of data science and machine learning, while being able to practically begin to explore those concepts in code. The next step after completing the videos is to start to explore other types of data, algorithms, and approches. One way to do that is to find additional tutorials to guide you through your discovery. We created a Microsoft Learn collection containing some of our favorite learning paths for furthering your exploration. 
 
-The [Developer's Intro to Data Science Learn collection](www.aka.ms/DevIntroDS_Learn) contains content around machine learning and data science specifically with Azure, as well as the UC Berkeley Data8 course. We also collated some AI learning paths that we find particularly interesting as further data exploration.
+The [Developer's Intro to Data Science Learn collection](http://www.aka.ms/DevIntroDS_Learn) contains content around machine learning and data science specifically with Azure, as well as the UC Berkeley Data8 course. We also collated some AI learning paths that we find particularly interesting as further data exploration.
 
 ## Contributing
 
